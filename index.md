@@ -141,8 +141,50 @@ Mobile Ad-Hoc Networks”</p>
  <dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6967623">Centralized non-convex model predictive control for cooperative collision avoidance of networked vehicles </a> </dt>
 <dd>Bassam Alrifaee, <strong>Masoumeh Ghanbarpour</strong>, Dirk Abel. IEEE International Symposium on Intelligent Control (ISIC)
 </dd>    
-
+<h2 id="instructional-experience">Instructional Experience</h2>
+<dl>
+<dt>Teaching Assistant</dt>
+<dd>Applied Discrete Mathematics
+</dd>
+<dd>UC Santa Cruz
+</dd>
+<dd>Summer 2022
+</dl>    
+<dl>
+<dt>Teaching Assistant</dt>
+<dd>Probability and Statistics for Engineers
+</dd>
+<dd>UC Santa Cruz
+</dd>
+<dd>Spring 2022
+</dd>
 </dl>
+ <dl>
+<dt>Teaching Assistant</dt>
+<dd>Computer Systems and C Programming
+</dd>
+<dd>UC Santa Cruz
+</dd>
+<dd>Winter 2022
+</dl>    
+<dl>
+ <dt>Teaching Assistant</dt>
+<dd>Digital Signal Processing
+</dd>
+<dd>UC Santa Cruz
+</dd>
+<dd>Spring 2020
+</dl>    
+<dl> 
+ <dt>Teaching Assistant</dt>
+<dd>Introduction to Electronic Circuits
+</dd>
+<dd>UC Santa Cruz
+</dd>
+<dd>Fall 2019
+</dl>    
+<dl>  
+ </dl>
 <!-- <h2 id="selected-graduate-courses">Selected Graduate Courses</h2> -->
 <!-- <dl> -->
 <!-- <dt>UC Santa Cruz</dt> -->
