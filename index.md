@@ -114,7 +114,6 @@ Masoumeh Ghanbarpour    </title>
 Vehicle Collision Avoidance” </p>
 <h3 id="Iran-university-of-science-and-thechnology">Iran University of Science & Technology, Applied Mathematics</h3>
 <p>Tehran, Iran <br> B.Sc. in Applied Mathematics <br> Thesis: “Distance-Transitive & Distance Regular Graphs”</p>
-<h2 id="publications">Publications</h2>
 <h3 id="azad-university-central-tehran-branch">Azad University, Central Tehran Branch</h3>
 <p>Tehran, Iran <br> B.Sc. in Electrical Engineering <br> Thesis: “Immune System for Misbehavior Detection in
 Mobile Ad-Hoc Networks”</p>
