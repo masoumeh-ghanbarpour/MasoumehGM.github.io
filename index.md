@@ -142,34 +142,24 @@ Mobile Ad-Hoc Networks”</p>
 <dd>Bassam Alrifaee, <strong>Masoumeh Ghanbarpour</strong>, Dirk Abel. IEEE International Symposium on Intelligent Control (ISIC)
 </dd>    
 <h2 id="teaching-assistant">Teaching Assistant</h2>
+  <dl>  
 <dl>
-<dd>Applied Discrete Mathematics</dd>
+<dt>Applied Discrete Mathematics</dt>
 <dd>UC Santa Cruz, Summer 2022</dd>
 </dl>    
 <dl>
-<dt>Teaching Assistant</dt>
-<dd>Probability and Statistics for Engineers </dd>
-<dd>UC Santa Cruz, Spring 2022
-</dd>
+<dt>Probability and Statistics for Engineers</dt>
+<dd>UC Santa Cruz, Spring 2022</dd>
 </dl>
  <dl>
-<dt>Teaching Assistant</dt>
-<dd>Computer Systems and C Programming
-</dd>
-<dd>UC Santa Cruz, Winter 2022
-</dl>    
+<dt>Computer Systems and C Programming</dt>
+<dd>UC Santa Cruz, Winter 2022</dl>    
 <dl>
- <dt>Teaching Assistant</dt>
-<dd>Digital Signal Processing
-</dd>
-<dd>UC Santa Cruz, Spring 2020
-</dl>    
+ <dt>Digital Signal Processing</dt>
+<dd>UC Santa Cruz, Spring 2020</dl>    
 <dl> 
- <dt>Teaching Assistant</dt>
-<dd>Introduction to Electronic Circuits
-</dd>
-<dd>UC Santa Cruz, Fall 2019
-</dl>    
+ <dt>Introduction to Electronic Circuits</dt>
+<dd>UC Santa Cruz, Fall 2019</dl>    
 <dl>  
  </dl>
 <!-- <h2 id="selected-graduate-courses">Selected Graduate Courses</h2> -->
