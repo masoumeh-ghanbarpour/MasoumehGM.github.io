@@ -84,7 +84,7 @@ Masoumeh Ghanbarpour    </title>
 </a><br>
 </p>
 <p>
-<a href="/hosted/Masoumeh Ghanbarpour CV.pdf">Curriculum Vitae</a>
+<a href="/Masoumeh Ghanbarpour CV.pdf">Curriculum Vitae</a>
 </p>
 <p>
     Email: maghanba [at] ucsc (dot) edu <br>
