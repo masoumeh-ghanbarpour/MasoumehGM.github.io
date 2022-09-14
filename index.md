@@ -79,8 +79,8 @@ Masoumeh Ghanbarpour    </title>
 <br>
 <p>
     Graduate Student <br>
-    Department of Electrical and Computer Engineering at
-    <a href="https://www.ucsc.edu/">UC Santa Cruz</a> <br>
+    Department of Electrical and Computer Engineering<br>
+    <a href="https://www.ucsc.edu/">UC Santa Cruz</a> 
 </a><br>
 <a href="/hosted/Masoumeh Ghanbarpour CV.pdf">Curriculum Vitae</a>
 </p>
