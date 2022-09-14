@@ -17,6 +17,7 @@ minimal: true           # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Masoumeh Ghanbarpour CV.pdf", title: "Curriculum Vitae"}
+  - {file: "Transcript.pdf", title: "Transcript"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=vFsfAxEAAAAJ&hl=en"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
