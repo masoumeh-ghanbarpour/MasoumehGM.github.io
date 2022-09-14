@@ -1,6 +1,10 @@
 ---
-layout: page
-title:"me"
+layout: default
+title: "Home"
 ---
 
-I am Masoumeh.
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Publications" %}
+{% endif %}
