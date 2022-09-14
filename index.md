@@ -82,6 +82,8 @@ Masoumeh Ghanbarpour    </title>
     Department of Electrical and Computer Engineering<br>
     <a href="https://www.ucsc.edu/">UC Santa Cruz</a> 
 </a><br>
+</p>
+<p>
 <a href="/hosted/Masoumeh Ghanbarpour CV.pdf">Curriculum Vitae</a>
 </p>
 <p>
