@@ -144,42 +144,32 @@ Mobile Ad-Hoc Networks”</p>
 <h2 id="instructional-experience">Instructional Experience</h2>
 <dl>
 <dt>Teaching Assistant</dt>
-<dd>Applied Discrete Mathematics
-<dd>UC Santa Cruz
-<dd>Summer 2022
+<dd>Applied Discrete Mathematics</dd>
+<dd>UC Santa Cruz, Summer 2022</dd>
 </dl>    
 <dl>
 <dt>Teaching Assistant</dt>
-<dd>Probability and Statistics for Engineers
-</dd>
-<dd>UC Santa Cruz
-</dd>
-<dd>Spring 2022
+<dd>Probability and Statistics for Engineers </dd>
+<dd>UC Santa Cruz, Spring 2022
 </dd>
 </dl>
  <dl>
 <dt>Teaching Assistant</dt>
 <dd>Computer Systems and C Programming
 </dd>
-<dd>UC Santa Cruz
-</dd>
-<dd>Winter 2022
+<dd>UC Santa Cruz, Winter 2022
 </dl>    
 <dl>
  <dt>Teaching Assistant</dt>
 <dd>Digital Signal Processing
 </dd>
-<dd>UC Santa Cruz
-</dd>
-<dd>Spring 2020
+<dd>UC Santa Cruz, Spring 2020
 </dl>    
 <dl> 
  <dt>Teaching Assistant</dt>
 <dd>Introduction to Electronic Circuits
 </dd>
-<dd>UC Santa Cruz
-</dd>
-<dd>Fall 2019
+<dd>UC Santa Cruz, Fall 2019
 </dl>    
 <dl>  
  </dl>
