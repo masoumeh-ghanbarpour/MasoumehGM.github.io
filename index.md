@@ -108,13 +108,17 @@ Masoumeh Ghanbarpour    </title>
 <!--pandoc -f markdown -t html index.md | wl-copy -->
 <h2 id="education">Education</h2>
 <h3 id="university-of-california-santa-cruz">University of California, Santa Cruz</h3>
-<p>Santa Cruz, CA <br> ECE (Ongoing) </p>
-<h3 id="university-of-RWTH-Aachen">University of RWTH</h3>
+<p>Santa Cruz, CA <br> Graduate Student in ECE (Ongoing) </p>
+<h3 id="university-of-RWTH-Aachen">University of RWTH Aachen</h3>
 <p>Aachen, Germany <br> M.Sc. in Communication Engineering <br> Thesis: “Development of a Model Predictive Control Concept for
 Vehicle Collision Avoidance” </p>
 <h3 id="Iran-university-of-science-and-thechnology">Iran University of Science & Technology, Applied Mathematics</h3>
-<p>Tehran, Iran <br> B.Sc. in Applied Mathematics </p>
+<p>Tehran, Iran <br> B.Sc. in Applied Mathematics <br> Thesis: “Development of a Model Predictive Control Concept for
+Vehicle Collision Avoidance”</p>
 <h2 id="publications">Publications</h2>
+<h3 id="azad-university-central-tehran-branch">Azad University, Central Tehran Branch</h3>
+<p>Tehran, Iran <br> B.Sc. in Electrical Engineering <br> Thesis: “Development of a Model Predictive Control Concept for
+Vehicle Collision Avoidance”</p>
 <dl>
 
 </dd>
