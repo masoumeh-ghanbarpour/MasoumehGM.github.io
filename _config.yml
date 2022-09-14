@@ -16,8 +16,8 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "CV_Masoumeh.pdf", title: "Curriculum Vitae"}
+  - {title: "Google Scholar", url:"https://scholar.google.com/citations?user=vFsfAxEAAAAJ&hl=en"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:maghanba@ucsc.edu"}
