@@ -103,6 +103,69 @@ Masoumeh Ghanbarpour    </title>
 
 
 
+<!--pandoc -f markdown -t html index.md | wl-copy -->
+<h2 id="education">Education</h2>
+<h3 id="university-of-california-santa-cruz">University of California, Santa Cruz</h3>
+<p>Santa Cruz, CA <br> ECE (Ongoing) </p>
+<h3 id="university-of-RWTH-Aachen">University of RWTH</h3>
+<p>Aachen, Germany <br> M.Sc. in Communication Engineering <br> Thesis: “Development of a Model Predictive Control Concept for
+Vehicle Collision Avoidance” </p>
+<h3 id="Iran-university-of-science-and-thechnology">Iran University of Science & Technology, Applied Mathematics</h3>
+<p>Tehran, Iran <br> B.Sc. in Applied Mathematics </p>
+<h2 id="publications">Publications</h2>
+<dl>
+
+</dd>
+</dl>
+<!-- <h2 id="selected-graduate-courses">Selected Graduate Courses</h2> -->
+<!-- <dl> -->
+<!-- <dt>UC Santa Cruz</dt> -->
+<!-- <dd>Machine Learning -->
+<!-- </dd> -->
+<!-- <dd>Convex Optimization -->
+<!-- </dd> -->
+<!-- <dd>Nonlinear Control Theory -->
+<!-- </dd> -->
+<!-- <dd>Applied Optimal Control -->
+<!-- </dd> -->
+<!-- <dt>University of Tehran</dt> -->
+<!-- <dd>Finite Element Method -->
+<!-- </dd> -->
+<!-- </dl> -->
+<!-- <h2 id="skills">Skills</h2> -->
+<!-- <dl> -->
+<!-- <dt>Programming</dt> -->
+<!-- <dd>MATLAB and Simulink -->
+<!-- </dd> -->
+<!-- <dd>Python -->
+<!-- </dd> -->
+<!-- <dd>MAPLE -->
+<!-- </dd> -->
+<!-- <dd>C++ -->
+<!-- </dd> -->
+<!-- <dt>Engineering, Modelling, and Simulation</dt> -->
+<!-- <dd>SOLIDWORKS -->
+<!-- </dd> -->
+<!-- <dd>ANSYS -->
+<!-- </dd> -->
+<!-- <dd>ABAQUS -->
+<!-- </dd> -->
+<!-- <dt>Technical Writing and Documentation</dt> -->
+<!-- <dd>LATEX -->
+<!-- </dd> -->
+<!-- <dd>Jupyter Notebook -->
+<!-- </dd> -->
+<!-- <dd>Keynote -->
+<!-- </dd> -->
+<!-- </dl> -->
+
+<!-- <h2> -->
+<!-- Additional Pages -->
+<!-- </h2> -->
+<!-- <ul class="toc"> -->
+<!--      -->
+<!-- </ul> -->
+
 </article>
     </main>
 
