@@ -113,15 +113,36 @@ Masoumeh Ghanbarpour    </title>
 <p>Aachen, Germany <br> M.Sc. in Communication Engineering <br> Thesis: “Development of a Model Predictive Control Concept for
 Vehicle Collision Avoidance” </p>
 <h3 id="Iran-university-of-science-and-thechnology">Iran University of Science & Technology, Applied Mathematics</h3>
-<p>Tehran, Iran <br> B.Sc. in Applied Mathematics <br> Thesis: “Development of a Model Predictive Control Concept for
-Vehicle Collision Avoidance”</p>
+<p>Tehran, Iran <br> B.Sc. in Applied Mathematics <br> Thesis: “Distance-Transitive & Distance Regular Graphs”</p>
 <h2 id="publications">Publications</h2>
 <h3 id="azad-university-central-tehran-branch">Azad University, Central Tehran Branch</h3>
-<p>Tehran, Iran <br> B.Sc. in Electrical Engineering <br> Thesis: “Development of a Model Predictive Control Concept for
-Vehicle Collision Avoidance”</p>
+<p>Tehran, Iran <br> B.Sc. in Electrical Engineering <br> Thesis: “Immune System for Misbehavior Detection in
+Mobile Ad-Hoc Networks”</p>
 <dl>
+<h2 id="publications">Publications</h2>
+<dl>
+<dt><a href="https://arxiv.org/pdf/2208.11364.pdf">A Converse Robust-Safety Theorem for Differential Inclusions (Submitted) </a> </dt>
+<dd>Mohamed Maghenem, <strong>Masoumeh Ghanbarpour</strong>. IEEE Transactions on Automatic Control
+</dd>  
+<dt><a href="https://arxiv.org/pdf/2208.10829.pdf">Sufficient conditions for robust safety in differential inclusions using barrier functions (Submitted) </a> </dt>
+<dd>Mohamed Maghenem, <strong>Masoumeh Ghanbarpour</strong>, Adnane Saoud. Automatica
+</dd> 
+<dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9867227">On the Feasibility and Continuity of Feedback Controllers Defined by Multiple Control Barrier Functions for Constrained Differential Inclusions </a> </dt>
+<dd>Axton Isaly, <strong>Masoumeh Ghanbarpour</strong>, Ricardo G. Sanfelice, Warren E. Dixon. American Control Conference (ACC)
+</dd>  
+ <dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9682926">Barrier Functions for Robust Safety in Differential Inclusions, Part II: The Converse Problem </a> </dt>
+<dd><strong>Masoumeh Ghanbarpour</strong>, Mohamed Maghenem. IEEE Conference on Decision and Control (CDC)
+</dd> 
+ <dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9683684">Barrier Functions for Robust Safety in Differential Inclusions, Part I: Sufficient Conditions </a> </dt>
+<dd><strong>Masoumeh Ghanbarpour</strong>, Mohamed Maghenem, Adnane Saoud. IEEE Conference on Decision and Control (CDC)
+</dd>   
+ <dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9683698">A Duality Approach to Set Invariance and Safety for Nonlinear Systems </a> </dt>
+<dd><strong>Masoumeh Ghanbarpour</strong>, Ricardo G. Sanfelice. IEEE Conference on Decision and Control (CDC)
+</dd>    
+ <dt><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6967623">Centralized non-convex model predictive control for cooperative collision avoidance of networked vehicles </a> </dt>
+<dd>Bassam Alrifaee, <strong>Masoumeh Ghanbarpour</strong>, Dirk Abel. IEEE International Symposium on Intelligent Control (ISIC)
+</dd>    
 
-</dd>
 </dl>
 <!-- <h2 id="selected-graduate-courses">Selected Graduate Courses</h2> -->
 <!-- <dl> -->
