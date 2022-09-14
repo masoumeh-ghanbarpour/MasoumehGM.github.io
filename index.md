@@ -145,9 +145,7 @@ Mobile Ad-Hoc Networks”</p>
 <dl>
 <dt>Teaching Assistant</dt>
 <dd>Applied Discrete Mathematics
-</dd>
 <dd>UC Santa Cruz
-</dd>
 <dd>Summer 2022
 </dl>    
 <dl>
